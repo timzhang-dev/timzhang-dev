@@ -8,4 +8,3 @@ currently interested in multimodal systems, retrieval, agents, and the infrastru
 
 `llms` · `rag` · `agents` · `full-stack`
 
-mostly building, occasionally documenting.
