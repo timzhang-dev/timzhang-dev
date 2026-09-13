@@ -1,4 +1,4 @@
-## hey, i'm Tim
+## 👋 hey, i'm Tim
 
 i like building software and engineering systems around ai.
 
